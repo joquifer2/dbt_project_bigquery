@@ -1,3 +1,8 @@
+# Permitir workflows de GitHub Actions
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
+
 target/
 dbt_packages/
 logs/
