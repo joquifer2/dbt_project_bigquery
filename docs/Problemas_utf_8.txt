@@ -1,0 +1,1 @@
+$Env:PYTHONUTF8 = "1"

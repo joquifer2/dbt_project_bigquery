@@ -1,0 +1,17 @@
+target/
+dbt_packages/
+logs/
+
+# Credenciales y configuraciones sensibles
+credentials/
+*.json
+*.yml
+.env
+
+# Entornos virtuales de Python
+venv/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+source_id,channel_name,source,ads_platform,medium
+6,Search,Google,Google ads,paid
+CALLBACK,Social_Ads,Meta,Meta,paid
+TRADE,Social_Ads,Meta,Meta,paid
+??,Performance_Max,Google,Google ads,paid
+??,Discovery,Google,Google ads,paid
+??,Youtube,Youtube,Google ads,paid
+STORE,Habitissimo,Habitissimo,Habitissimo,paid
+CALL,Phone,Directo,Not platform,direct
+EMAIL,Email,Directo,Not platform,direct
+PARTNER,Referral,Referral,Not platform,direct
+WEBFORM,Organic_Search,Web,Not platform,organic
+UC_YPDXY6,Ampliaciones,Ampliaciones,Not platform,direct

@@ -1,0 +1,31 @@
+stage_id,stage_name
+C17:NEW,Nuevo lead
+C17:PREPARATION,Pendiente de llamada
+C17:EXECUTING,En seguimiento
+C17:PREPAYMENT_INVOIC,Gestionando
+C17:UC_T62AGR,Visita por confirmar
+C17:UC_LC72S0,Visita por reagendar
+C17:LOSE,Contacto no válido
+C17:UC_MHXM7C,Contacto no localizado
+C17:APOLOGY,No localizado 2ª Ronda
+C17:UC_FBOOU8,Fuera de zona
+C17:UC_D0IF6P,No hacemos esos trabajos
+C17:UC_HPH9N1,No está interesado
+C17:UC_2XK0Q1,No contesta
+C17:UC_K8WTPA,Lead repetido
+C17:UC_YR8YCL,Profesionales
+C17:UC_WYI821, Licitaciones
+C17:WON,Visita confirmada
+C17:UC_9A8RPD,Perdido anula visita
+NEW,Gestión pendiente
+PREPAYMENT_INVOICE,Visita pendiente
+UC_OISV41,Call center
+EXECUTING,Creación oferta
+UC_2NYMLW,Consulta técnica
+UC_PN7YFL,2º Visita oferta
+UC_B12PJU,2º Visita agendada
+UC_A283HV,Modificcación de contrato
+3,En espera con oferta
+UC_4ZP2G9,Comunidad en espera
+LOSE,Cerrado perdido
+WON,Cerrado ganado
