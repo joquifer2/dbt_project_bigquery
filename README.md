@@ -88,3 +88,4 @@ Autor: Jordi Quiroga — [jordi@jordiquiroga.com](mailto:jordi@jordiquiroga.com)
 ---
 
 Este README resume la estructura, instalación y buenas prácticas del proyecto dbt para Bitrix CRM y Ads en BigQuery.
+<!-- Trigger GitHub Actions -->
